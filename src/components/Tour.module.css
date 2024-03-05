@@ -1,0 +1,52 @@
+.singleTour {
+  padding: 10px;
+  margin: 50px auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.imgTour {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.info h3 {
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: bold;
+}
+
+.info span {
+  color: blue;
+}
+
+.info p {
+  line-height: 24px;
+  color: black;
+  opacity: 0.8;
+}
+
+.info button {
+  color: blue;
+  margin-left: 10px;
+}
+
+.delete {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 30px;
+  color: red;
+  text-transform: uppercase;
+  border: 1px solid red;
+  cursor: pointer;
+  margin: 0 auto;
+}
