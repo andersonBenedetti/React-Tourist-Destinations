@@ -20,4 +20,4 @@ Este repositório abriga um aplicativo desenvolvido com React.js, projetado para
     </ul>
 </div>
 
-### Overview: <a href="https://react-tourist-destinations.netlify.app/">Lista de tarefas<a>
+### Overview: <a href="https://react-tourist-destinations.netlify.app/">Tours<a>
